@@ -1,0 +1,15 @@
+CONCESSIONARIO
+Array di veicoli con size con menú
+
+Attributi di veicolo: targa, modello, tipo, prezzo
+
+Tipi di veicolo: auto, motore, camion
+
+Menú: 
+1 - stampa veicoli
+2 - aggiungi veicolo
+3 - rimuovi veicolo
+4 - dato un tipo, stampa il veicolo che costa meno
+5 - dato un tipo, stampa la media dei prezzi dei veicoli
+6 - applica sconto su veicolo (tipi di sconto: 1 - fisso, 2 - percentuale)
+7 - ordinamento array veicoli in ordine alfabetico crescente in base al modello e targa
