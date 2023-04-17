@@ -1,3 +1,21 @@
+MODALITA' CONSEGNA PROGETTO:
+
+Il progetto dovrà essere svolto in gruppi di 2/3 persone e consegnato:
+    1 - tramite chiavetta usb da portare a lezione, oppure
+    2 - si fornisce un link di file sharing (ufile.io, mega, mediafire, lilik cloud, ecc...) (!!! attenzione alla scadenza del link !!!)
+
+Il progetto sarà composto da un singolo file con estensione ".c"
+che prenderà come nome i cognomi dei componenti del gruppo separati da un carattere "_";
+(Esempio: il gruppo composto da Marco Pierattini, Luca Cecchi e Aldo Fedonni dovranno consegnare un file di nome "pierattini_cecchi_fedonni.c").
+
+Si consiglia di adoprare come ambiente di sviluppo software uno tra le seguenti opzioni:
+    - devcpp, un IDE molto semplice, fornisce un editor di testo ed un compilatore (solo per Windows)
+    - Ecplipse per C/C++, dispone di Intellisense, debugger ed è multipiattaforma
+    - VSCODE con estensione per C/C++ e un compilatore (gcc, clang, mingw), è un editor di testo altamente configurabile e multipiattaforma (il setup è manuale)
+    - un qualunque altro setup a vostra scelta
+
+TESTO DEL PROGETTO:
+
 CONCESSIONARIO
 Array di veicoli con size con menú
 
